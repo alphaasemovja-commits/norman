@@ -10,10 +10,10 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 import asyncio
 
 # ===================== НАСТРОЙКИ =====================
-BOT_TOKEN = "ВАШ_ТОКЕН_БОТА"
-ADMIN_ID = 123456789          # Твой Telegram ID
-SBER_CARD = "2202 2024 1234 5678"  # Номер карты Сбер
-SBER_NAME = "Иван И."         # Имя получателя
+BOT_TOKEN = "8405148176:AAHzZ0Om_iksDl-2Xu74f3SAHtH-iYGAmVE"
+ADMIN_ID = 7922305713          # Твой Telegram ID
+SBER_CARD = "2202 2081 62869524"  # Номер карты Сбер
+SBER_NAME = "Скрыто Hellstar"         # Имя получателя
 
 PRICE_PER_BC = 1.77           # Рублей за 1 BC
 MIN_ORDER_RUB = 30            # Минимальный заказ в рублях
